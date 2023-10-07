@@ -1,0 +1,6 @@
+swww init &
+
+wall_path=/home/sean/bgs
+
+swww img ~/bgs/ilia-bronskiy-pq2VLU9-59E-unsplash.jpg
+wal -i ~/bgs/ilia-bronskiy-pq2VLU9-59E-unsplash.jpg
